@@ -1,0 +1,19 @@
+h1{
+    color: #a48585;
+}
+img{
+    width: 100%;
+}
+.shop{
+    background-color: #ad0609;
+    width: 100%;
+    }
+.cakes{
+    background-color: #5ea60c;
+    float:left;
+    width:50%;
+    }
+.wrap{
+    background-color: #5ea60c;
+    display: flex;
+}
