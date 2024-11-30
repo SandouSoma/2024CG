@@ -1,0 +1,13 @@
+img{
+    width: 100%;
+}
+.menu{
+    background-color: #fc0429;
+float:left;
+width:50%;
+}
+.wrap{
+    background-color: #fc0429;
+    display:flex;
+    flex-wrap:wrap;
+    }
