@@ -1,0 +1,17 @@
+body{
+    background-color: greenyellow;
+    color: rgb(9, 9, 9);
+   }
+   div.motto{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+    text-align: center;
+}
+div.tizu{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+    text-align: center;
+}
+h2{
+    color: rgb(201, 7, 7);
+}
